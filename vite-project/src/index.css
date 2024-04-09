@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+body{
+    background-color: #F7F8F9;
+  }
+.main {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 350px;
+    justify-content: center;
+  }
+.button{
+    color: white;
+    font: normal medium 10px/15px Rubik;
+  }
+  .account-settings-section {
+    background-color: white;
+  }
+  
+  
